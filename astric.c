@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>//astric typing 
 int main()
 {
     int i=1;
@@ -7,3 +7,4 @@ int main()
         printf("*");
     }
 }
+
