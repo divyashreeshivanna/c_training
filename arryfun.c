@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>//array function 
 int addarr(int arr{},int size)
 {
     int result=0;
@@ -13,4 +13,5 @@ void main()
     int arr[3]={33,44,55};
     int size=3;
     printf("%d\n",addarr(arr,size))
+
 }
