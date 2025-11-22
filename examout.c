@@ -14,8 +14,8 @@ void exam(int m1,int m2,int m3)
 }
 void main()
 {
-    int m1=45;
-    int m2=78;
-    int m3=56;
+    int m1,m2,m3;
+    printf("enter the value of m1,m2,m3:");
+    scanf("%d%d%d",&m1,&m2,&m3);
     exam(m1,m2,m3);
 }
